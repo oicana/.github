@@ -9,7 +9,7 @@ Features:
   * .NET/C# integration
   * Typescript/Javascript integration for the browser
   * Rust and Node.js integrations are work in progress
-* Leverage the incremental PDF compilation of Typst for blazingly fast (down to single digit ms!) document creation
+* Leverage the incremental PDF compilation of Typst for blazingly fast document creation down to single digit milliseconds
 
 
 [Typst]: https://typst.app/home/
