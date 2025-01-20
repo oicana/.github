@@ -1,4 +1,4 @@
-Oicana is a work in progress toolset for PDF templating using [Typst].
+Oicana is a toolset for PDF templating using [Typst].
 
 Features:
 * Every Oicana template is a valid [Typst] project. This means you can, for example, work on the template using the [Typst web app].
@@ -9,7 +9,7 @@ Features:
   * .NET/C# integration
   * Typescript/Javascript integration for the browser
   * Rust and Node.js integrations are work in progress
-* Leverage the incremental PDF compilation of Typst for blazingly fast document creation down to single digit milliseconds
+* Leverage the incremental PDF compilation of Typst for fast document creation down to single-digit milliseconds
 
 
 [Typst]: https://typst.app/home/
