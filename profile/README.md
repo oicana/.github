@@ -7,9 +7,9 @@ Features:
   * `blob` inputs for binary data like images.
 * Integrations for multiple tech stacks.
   * .NET/C# integration.
-  * Typescript/Javascript integration for the browser.
+  * Typescript/Javascript integration for the browser (WASM based).
   * Rust and Node.js integrations are work in progress.
-* Typst's incremental PDF compilation leads to document compilation in single-digit milliseconds.
+* Create PDFs in single-digit milliseconds thanks to Typst's incremental PDF compilation.
 
 
 [Typst]: https://typst.app/home/
