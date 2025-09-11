@@ -1,15 +1,10 @@
-Oicana is a toolset for PDF templating using [Typst].
+Oicana is a toolset for cross-platform PDF templating using [Typst]. Write your document templates with a modern and powerfull typesetter, then create PDFs from them in your own software. Oicana comes with integrations for C# and TS/JS in the browser (more are WIP).
 
-Features:
-* Every Oicana template is a valid [Typst] project. This means you can work on the template using the [Typst web app] or other Typst editors.
-* Define inputs for your templates. This is the data that can be changed for every compilation of the template.
-  * `json` inputs for structured data like invoice items.
-  * `blob` inputs for binary data like images.
-* Integrations for multiple tech stacks.
-  * .NET/C# integration.
-  * Typescript/Javascript integration for the browser (WASM based).
-  * Rust and Node.js integrations are work in progress.
-* Create PDFs in single-digit milliseconds thanks to Typst's incremental PDF compilation.
+- *Multi-platform* - The same templates work with all Oicana integrations.
+- *Powerful Layouting* - Templates can use all of Typst's functionality including its extensive package ecosystem.
+- *Performant* - Create a PDF in single digit milliseconds.
+- *Version Control Ready* - Templates are mostly text files and can live next to your source code.
+- *Escape Vendor Lock-in* - Reuse templates with other Typst based solutions. The Typst compiler is open source!
 
 
 [Typst]: https://typst.app/home/
